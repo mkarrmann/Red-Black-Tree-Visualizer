@@ -11,25 +11,23 @@ which is the intended use-case.
 
 Displays tree as shown:
 
-Note: "*" denotes Red node, while "+" denotes Black node.
-
-'''
-
-                    +04+
-                   /    \
-                  /      \
-                 /        \
-                /          \
-               /            \
-              /              \
-             /                \
-            /                  \
-        +02+                    +06+
-       /    \                  /    \
-      /      \                /      \
-     /        \              /        \
-    /          \            /          \
-+01+            +03+    +05+            \*08\*
-                                    +07+    +09+
-                                                \*10\*
-'''
+	Note: "*" denotes Red node, while "+" denotes Black node.
+	
+	
+  	                  +04+
+    	               /    \
+      	            /      \
+        	         /        \
+          	      /          \
+            	   /            \
+	              /              \
+	             /                \
+	            /                  \
+	        +02+                    +06+
+	       /    \                  /    \
+	      /      \                /      \
+	     /        \              /        \
+	    /          \            /          \
+	+01+            +03+    +05+            \*08\*
+	                                    +07+    +09+
+	                                                \*10\*
